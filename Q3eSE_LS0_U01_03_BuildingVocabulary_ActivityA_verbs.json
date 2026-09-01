@@ -1,0 +1,153 @@
+{
+  "title": "Q3eSE_LS0_U01_03_BuildingVocabulary_ActivityA_verbs",
+  "sentences": [
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "live",
+      "definition": "",
+      "english": "Alan lives in Toronto.",
+      "arabic": "آلان يعيش في تورونتو.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_live.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "work",
+      "definition": "",
+      "english": "He works at the after-school program at the community center in his town.",
+      "arabic": "يعمل في برنامج ما بعد المدرسة في المركز المجتمعي في بلدته",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_work.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+   
+    {
+      "speaker": "Narrator:",
+      "keyWord": "come",
+      "definition": "",
+      "english": "Children come to the community center after school.",
+      "arabic": "يأتي الأطفال إلى المركز المجتمعي بعد المدرسة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_come.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+   
+    
+
+ 
+    {
+      "speaker": "Narrator:",
+      "keyWord": "do",
+      "definition": "",
+      "english": "Alan does many activities with them.",
+      "arabic": "آلان يقوم بالعديد من الأنشطة معهم.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_do.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "is",
+      "definition": "",
+      "english": "It is a good job for him because he is interested in a lot of different things.",
+      "arabic": "إنها وظيفة جيدة بالنسبة له لأنه مهتم بالعديد من الأشياء المختلفة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_is_interested.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "ride",
+      "definition": "",
+      "english": "On sunny days, Alan and the kids ride bikes or go hiking.",
+      "arabic": "في الأيام المشمسة، يركب آلان والأطفال الدراجات أو يذهبون في رحلات المشي لمسافات طويلة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_ride.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+   
+    {
+      "speaker": "Narrator:",
+      "keyWord": "go + to + place",
+      "definition": "",
+      "english": "Sometimes they go to the beach or the park.",
+      "arabic": "أحيانًا يذهبون إلى الشاطئ أو الحديقة.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Sometimes they go to the beach or the park.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "listen, play",
+      "definition": "",
+      "english": "On rainy days, Alan and the kids listen to podcasts, or they play games like Scrabble and checkers",
+      "arabic": "في الأيام الممطرة، يستمع آلان والأطفال إلى البودكاست، أو يلعبون ألعابًا مثل سكرابل والداما.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/v_listen_play.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "go + to + place",
+      "definition": "",
+      "english": "Sometimes they go to a museum together",
+      "arabic": "أحيانًا يذهبون إلى متحف معًا.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/Sometimes they go to a museum together.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "Narrator:",
+      "keyWord": "get together, go home",
+      "definition": "",
+      "english": "After work, Alan sometimes gets together with friends, but he usually goes home to relax and read a book",
+      "arabic": "بعد العمل، أحيانًا يلتقي آلان مع أصدقائه، لكنه عادةً يذهب إلى المنزل لكي يسترخي و يقرأ كتابا  .",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/After work, Alan sometimes gets together with friends, but he usually goes home to relax and read a book.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+    
+    
+  ]
+}
